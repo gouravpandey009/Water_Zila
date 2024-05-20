@@ -34,14 +34,3 @@ Contributions are welcome! If you would like to contribute to WaterZilla, please
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to explore, modify, and distribute WaterZilla according to the terms of the license. Your contributions and enhancements are highly appreciated!
-
-## Contact
-
-For any inquiries or feedback, please reach out to qamarislam4496@gmail.com
-
-Join us on WaterZilla, where the online water buying experience is redefined. Seamlessly manage orders, track sales, and delight your customers. Let's dive into the world of WaterZilla and make a splash in the industry!
